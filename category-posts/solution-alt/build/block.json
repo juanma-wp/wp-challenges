@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "wp-challenges/category-posts",
+  "version": "0.1.0",
+  "title": "Block Posts From Category",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "Example block scaffolded with Create Block tool.",
+  "example": {},
+  "supports": {
+    "html": false
+  },
+  "attributes": {
+    "categoryId": {
+      "type": "number",
+      "default": 0
+    }
+  },
+  "textdomain": "wp-challenges",
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php"
+}
