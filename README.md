@@ -6,6 +6,9 @@ This repository contains challenges and solutions for WordPress block developmen
 
 ### 1. Category Posts Challenge
 
+> [!NOTE]
+> This challenge is part of the [WordPress Challenges](https://wpchallenges.beehiiv.com/) series by [Igor Benić](https://x.com/igorbenic). It was originally published as [WP Challenge #1: Block Development](https://wpchallenges.beehiiv.com/p/wp-challenge-1-block-development) in January 2024. This repository provides two different approaches to solving the challenge.
+
 **Description**: Create a block that fetches and displays posts from a specific category dynamically.
 
 **Requirements**:
